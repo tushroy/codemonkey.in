@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Code Monkey</title>
+    <link>http://codemonkey.in/tags/</link>
+    <description>Recent content in Tags on Code Monkey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
+    
+	<atom:link href="http://codemonkey.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demo</title>
+      <link>http://codemonkey.in/tags/demo/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>http://codemonkey.in/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>http://codemonkey.in/tags/image/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>http://codemonkey.in/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>http://codemonkey.in/tags/typography/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>http://codemonkey.in/tags/typography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>http://codemonkey.in/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://codemonkey.in/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>http://codemonkey.in/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://codemonkey.in/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://codemonkey.in/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://codemonkey.in/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://codemonkey.in/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://codemonkey.in/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>http://codemonkey.in/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://codemonkey.in/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>http://codemonkey.in/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://codemonkey.in/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
