@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 15:47:22 +0600</lastBuildDate>
     
 	<atom:link href="https://codemonkey.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://codemonkey.in/posts/privacy_policy/</link>
+      <pubDate>Wed, 29 May 2019 15:47:22 +0600</pubDate>
+      
+      <guid>https://codemonkey.in/posts/privacy_policy/</guid>
+      <description>Privacy Policy Code Monkey built the Bangla Talking Clock app as a Free app. This SERVICE is provided by Code Monkey at no cost and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>
@@ -98,6 +109,17 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://codemonkey.in/posts/privacy_policy-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codemonkey.in/posts/privacy_policy-1/</guid>
+      <description>Privacy Policy Code Monkey built the Bangla Talking Clock app as a Free app. This SERVICE is provided by Code Monkey at no cost and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.</description>
     </item>
     
   </channel>
